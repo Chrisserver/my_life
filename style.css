@@ -1,2 +1,10 @@
-.beach{border: 3px solid black; width:20%;}
-body{background-color:lightblue; font-family:Arial; text-align:center;}
+body {
+  background-color:lightblue; 
+  font-family:Arial; 
+  text-align:center;
+}
+
+.beach {
+  border: 3px solid black;
+  width:20%;
+}
