@@ -5,3 +5,14 @@ body {
     color: #b53333;
     background-color: #d0d5f2;
 }
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    color: #4a90e2;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
